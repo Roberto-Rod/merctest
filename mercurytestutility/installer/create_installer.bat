@@ -1,0 +1,2 @@
+copy D:\workspace\qt_sdk\build-mercurytestutility-Desktop_Qt_5_4_0_MinGW_Static_32bit-Release\release\mercurytestutility.exe packages\com.vendor.product\data
+C:\Qt\QtIFW2.0.1\bin\binarycreator.exe -c config\config.xml -p packages MercuryTestUtilityInstaller_vX.Y.Z.exe

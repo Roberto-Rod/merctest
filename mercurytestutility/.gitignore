@@ -1,0 +1,10 @@
+# Ignore user specific project files
+mercurytestutility.pro.user*
+
+# Ignore build files
+Makefile*
+mercurytestutility_resource.rc
+object_script.*
+*_plugin_import.cpp
+debug/
+release/

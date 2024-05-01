@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/16x16/qt-logo.png</file>
+        <file>icons/16x16/dialog-close.png</file>
+        <file>icons/16x16/dialog-error-4.png</file>
+        <file>icons/16x16/dialog-ok-3.png</file>
+        <file>icons/16x16/dialog-question-2.png</file>
+        <file>icons/16x16/dialog-warning.png</file>
+        <file>icons/16x16/edit-clear-2.png</file>
+        <file>icons/16x16/edit-copy-4.png</file>
+        <file>icons/16x16/folder-3.png</file>
+        <file>icons/16x16/kirintec_logo.png</file>
+        <file>icons/16x16/ksysguard.png</file>
+        <file>icons/32x32/kirintec_logo.png</file>
+        <file>icons/16x16/dialog-information-3.png</file>
+        <file>icons/16x16/emblem-important-2.png</file>
+    </qresource>
+</RCC>

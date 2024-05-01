@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Mercury Test Utility</DisplayName>
+    <Description>Install the Mercury Test Utility.</Description>
+    <Version>1.3.2</Version>
+    <ReleaseDate>2016-06-12</ReleaseDate>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>targetwidget.ui</UserInterface>
+    </UserInterfaces>
+</Package>
